@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Protect White House
 
 ##Author: Zhenghao Chen
@@ -20,7 +19,3 @@ The Documents including report and slides are embedded in the Document Folder
 * Processing 3: https://processing.org/download/?processing
 * Beads: http://www.beadsproject.net/
 * Processing vide: https://www.processing.org/reference/libraries/video/
-=======
-# Protect-White-House
-A game
->>>>>>> origin/master
