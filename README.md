@@ -15,7 +15,7 @@ The website is for promotion
 The Documents including report and slides are embedded in the Document Folder
 
 ## Contribution and Contact
-You are always welcome to contact me if you have problems or new ideas with this open source game or feel freeto have pull request
+You are always welcome to contact me if you have problems or new ideas with this open source game or feel free to have pull request
 
 ## Libraries:
 * Processing 3: https://processing.org/download/?processing
