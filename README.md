@@ -1,4 +1,5 @@
 #Protect White House
+This is a video Game using 2D and 3D Techniques made for my own interest
 
 ##Author: Zhenghao Chen
 
